@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 3rd-year CSE Student at **Nirma University**
+- 🎓 Final-year CSE Student at **Nirma University**
 - 💻 Passionate about **Backend Development** and building scalable applications
 - 🔒 Learning and exploring **Cybersecurity** fundamentals on the side
 - 🌐 Familiar with REST APIs, Authentication, and basic DevOps practices
@@ -20,7 +20,7 @@
 
 ```bash
 🧠 Languages:        Python | Java | JavaScript | SQL | Bash
-🧰 Backend Tools:    Flask | Node.js | Express | FastAPI
+🧰 Backend Tools:     Node.js | Express | FastAPI
 🗄️ Databases:        MySQL | MongoDB | SQLite
 🌐 Web Tech:          HTML | CSS | REST APIs | JWT Auth
 🔐 Cybersecurity:     Splunk | IAM | Phishing Analysis | Azure RBAC
@@ -34,4 +34,4 @@
 📫 Let's Connect
 💼 LinkedIn
 
-💌 Email: harsh.bhanderi@example.com
+💌 Email: bhanderiharsh501@gmail.com
